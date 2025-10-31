@@ -2,17 +2,27 @@
   "questions": [
     {
       "title": "En quelle année dit-on que la mécanique quantique est née ?",
-      "choices": ["1900", "1925", "1945"],
+      "choices": ["1900", "1925", "1945", "1950"],
       "answer": 1
     },
     {
       "title": "Qui a proposé l'équation qui décrit le comportement des particules élémentaires, connue sous le nom d'équation de Schrödinger ?",
-      "choices": ["Werner Heisenberg", "Max Born", "Erwin Schrödinger"],
+      "choices": [
+        "Werner Heisenberg",
+        "Max Born",
+        "Erwin Schrödinger",
+        "Albert Einstein"
+      ],
       "answer": 3
     },
     {
       "title": "Quel physicien allemand a introduit pour la première fois la constante fondamentale h, base de la mécanique quantique ?",
-      "choices": ["Max Planck", "Albert Einstein", "Niels Bohr"],
+      "choices": [
+        "Max Planck",
+        "Albert Einstein",
+        "Niels Bohr",
+        "Louis de Broglie"
+      ],
       "answer": 1
     },
     {
@@ -20,7 +30,8 @@
       "choices": [
         "Dualité onde-corpuscule",
         "Superposition",
-        "Intrication quantique"
+        "Intrication quantique",
+        "Indétermination"
       ],
       "answer": 1
     },
@@ -29,7 +40,8 @@
       "choices": [
         "Ordinateurs classiques plus rapides",
         "Ordinateurs quantiques capables de traiter certains problèmes beaucoup plus vite",
-        "Télécommunications analogiques"
+        "Télécommunications analogiques",
+        "Calculs cryptographiques classiques"
       ],
       "answer": 2
     }
