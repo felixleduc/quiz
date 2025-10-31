@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "titre": "En quelle année dit-on que la mécanique quantique est née ?",
+      "choix": {
+        "1": "1900",
+        "2": "1925",
+        "3": "1945"
+      },
+      "reponse": "1"
+    },
+    {
+      "titre": "Qui a proposé l'équation qui décrit le comportement des particules élémentaires, connue sous le nom d'équation de Schrödinger ?",
+      "choix": {
+        "1": "Werner Heisenberg",
+        "2": "Max Born",
+        "3": "Erwin Schrödinger"
+      },
+      "reponse": "3"
+    },
+    {
+      "titre": "Quel physicien allemand a introduit pour la première fois la constante fondamentale h, base de la mécanique quantique ?",
+      "choix": {
+        "1": "Max Planck",
+        "2": "Albert Einstein",
+        "3": "Niels Bohr"
+      },
+      "reponse": "1"
+    },
+    {
+      "titre": "Quelle propriété des particules quantiques permet qu'elles soient à la fois ondes et particules ?",
+      "choix": {
+        "1": "Dualité onde-corpuscule",
+        "2": "Superposition",
+        "3": "Intrication quantique"
+      },
+      "reponse": "1"
+    },
+    {
+      "titre": "Quels types d'applications modernes sont rendus possibles grâce aux principes de la physique quantique, en particulier dans le domaine informatique ?",
+      "choix": {
+        "1": "Ordinateurs classiques plus rapides",
+        "2": "Ordinateurs quantiques capables de traiter certains problèmes beaucoup plus vite",
+        "3": "Télécommunications analogiques"
+      },
+      "reponse": "2"
+    }
+  ]
+}
